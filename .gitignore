@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!my_app.py
+!requirements.txt
+!vdq-quartier.geojson
+!temp_avant.tif
+!temp_apres.tif
+!.github
