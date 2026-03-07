@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping de l'application
-        run: curl -I https://tbresto-jyyukmqvf363etkjp5krdt.streamlit.app/
+        run: curl -I https://lstqcsummer-vs4bqnbzatnwyit5da7whx.streamlit.app/

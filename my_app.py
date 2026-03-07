@@ -156,8 +156,8 @@ if mode_selection == "Swipe Map":
         right_label=f'<span style="{style_lbl}">2020-2025</span>'
     )
     
-    val_min = 7.0
-    val_max = 53.7
+    val_min = 14.2
+    val_max = 53.4
 
     legend_swipe_html = f"""
     <div style="position: fixed; top: 50px; right: 50px; width: 250px; z-index: 9999; background-color: rgba(38, 39, 48, 0.95); border: 1px solid #444; border-radius: 8px; padding: 10px; color: white; font-family: sans-serif;">
