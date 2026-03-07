@@ -23,8 +23,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 MAPBOX_TOKEN = st.secrets["MAPBOX_TOKEN"]
-ID_GAUCHE = "guts3644.bnef3im0"
-ID_DROITE = "guts3644.prqujcsw"
+ID_GAUCHE = "guts3644.1jaipybb"
+ID_DROITE = "guts3644.4u4wzcjc"
 
 @st.cache_resource
 def load_data():
